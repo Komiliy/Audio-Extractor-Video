@@ -29,5 +29,5 @@ Update the script with your video file name.
 
 Run the script.
 
-<img width="242" height="115" alt="image" src="https://github.com/user-attachments/assets/7ed260d5-a0b1-42d3-870b-32315f50a488" />
+<img width="242" height="115" alt="image" src="https://github.com/user-attachments/assets/7ed260d5-a0b1-42d3-870b-32315f50a488" /> <br>
 File example!
